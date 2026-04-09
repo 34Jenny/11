@@ -84,7 +84,7 @@
     "backgroundColor": "#ffffff",
     "footerBackground": "#111111",
     "sidebarBackground": "#fafafa",
-    "fontSans": "Montserrat",
+    "fontSans": "Inter",
     "fontSerif": "Cormorant Garamond"
   }
 }
